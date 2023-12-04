@@ -1,0 +1,117 @@
+.bgc {background-color:#81BBE9}
+.bdc {border-color:#81BBE9}
+
+body{
+	font-family : Sans-Serif;
+	font-size : 10pt;
+	}
+
+th{ color: White; 
+background-color: #81BBE9;
+ font-family :  sans-serif;
+ font-weight :  bold;}
+
+.header {font-family: Verdana, Arial, helvetica, sans-serif;
+font-size: 12px;
+font-weight: normal;
+color: #000000;
+text-decoration: none;
+}
+
+.toolbar {font-family: Verdana, Arial, helvetica, sans-serif;
+font-size: 12px;
+font-weight: normal;
+color: #FFFFFF;
+text-decoration: none;
+}
+
+td,tr{
+	font-family : Sans-Serif;
+	font-size : 10pt;
+	color: #003399;
+	}
+
+
+p.header{
+	font-family : Sans-Serif;
+	font-size : small;
+	font-weight : bold;
+	}
+
+
+h1{
+	font-family : Sans-Serif;
+	font-size : 200%;
+	color: #000066;
+	}
+
+
+h2{
+	font-family : Sans-Serif;
+	font-size : 135%;
+	color: #81BBE9;
+	}
+
+
+a,a:visited,a:active,a:link{
+	color : Navy;
+	}
+
+
+a:hover{
+	color : Red;
+	}
+
+
+em{
+	font-size : x-small;
+	}
+
+
+p{
+	font-family : MS Sans Serif;
+	font-size : 10pt;	
+	color : Black;}
+
+select{font-size: x-small; }
+
+pre{ font-family: Sans-Serif,Andale Mono,monospace}
+
+.BoxGrid {
+	float:center;
+	border: 0px solid #dadada;
+	margin: 0px;
+}
+
+.NormalBox {
+	float:left;
+	border: 1px solid #dadada;
+	margin: 1px;
+}
+
+.BlankBox {
+	float:left;
+	border: 0px solid #dadada;
+	margin: 1px;
+}
+
+.ProductBox {
+	position:relative;
+	top:0px;
+	left:0px;
+	width:100%;
+	margin:2px 2px 1px 2px;
+	voice-family: "\"}\"";
+	padding-left:2px;
+	padding-right:2px;
+	padding-top:2px;
+	voice-family:inherit; 
+	width:120px;
+	height: 175px;
+}
+
+.smltxt {
+	font-family : Sans-Serif;
+	font-size : 7pt;
+	
+}
